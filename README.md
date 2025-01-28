@@ -1,2 +1,2 @@
 # Amazon-Project
- amazon(html+css)
+ based on amazon(html+css)
